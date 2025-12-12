@@ -2,5 +2,5 @@
 n/a atm 
 
 contributers:
-Donya Ahmadi /
+Donya Ahmadi \
 Vayu Sarangam
