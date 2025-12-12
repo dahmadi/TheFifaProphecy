@@ -1,6 +1,6 @@
 # TheFifaProphecy
 n/a atm 
 
-contributers:
+contributers:\
 Donya Ahmadi \
 Vayu Sarangam
