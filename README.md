@@ -1,7 +1,7 @@
 # TheFifaProphecy
 
 Contributors:\
-Donya Ahmadi \
+Donya Ahmadi 
 
 ## World Cup Prediction Markets: From Regression to Portfolio
 
