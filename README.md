@@ -2,7 +2,6 @@
 
 Contributors:\
 Donya Ahmadi \
-Vayu Sarangam
 
 ## World Cup Prediction Markets: From Regression to Portfolio
 
