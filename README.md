@@ -10,6 +10,8 @@ A class project from my applied analytics program (AAN515) exploring how
 statistical models translate into decisions under uncertainty, using
 international football and prediction markets as the testbed.
 
+![Elo vs goal difference](elo_vs_goal_diff.png)
+
 ## What it does
 
 1. **Elo validation.** Verifies that Elo rating difference correlates with
@@ -39,7 +41,7 @@ international football and prediction markets as the testbed.
 ## Files
 
 - `predict_final.py` - standalone script computing the final's probabilities
-- `plots/` - Elo vs goal difference scatter, portfolio allocation
+- `elo_vs_goal_diff.png` - Elo difference vs goal difference across 40k+ matches
 
 ## Data
 
