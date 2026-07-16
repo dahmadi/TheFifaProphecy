@@ -5,7 +5,7 @@ Contributers:\
 Donya Ahmadi \
 Vayu Sarangam
 
-# World Cup Prediction Markets: From Regression to Portfolio
+## World Cup Prediction Markets: From Regression to Portfolio
 
 A class project from my applied analytics program (AAN515) exploring how
 statistical models translate into decisions under uncertainty, using
